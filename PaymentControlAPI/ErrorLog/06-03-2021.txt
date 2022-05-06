@@ -1,0 +1,45 @@
+
+Log Entry : 8:40:12 PM Saturday, March 6, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 8:59:39 PM Saturday, March 6, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 9:12:39 PM Saturday, March 6, 2021
+  :
+  :The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 9:14:57 PM Saturday, March 6, 2021
+  :
+  :The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 9:26:27 PM Saturday, March 6, 2021
+  :
+  :The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 9:37:46 PM Saturday, March 6, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------

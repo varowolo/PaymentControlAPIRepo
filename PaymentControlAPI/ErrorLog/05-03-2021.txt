@@ -1,0 +1,42 @@
+
+Log Entry : 11:05:57 PM Friday, March 5, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy)
+-------------------------------
+
+Log Entry : 11:07:32 PM Friday, March 5, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy)
+-------------------------------
+
+Log Entry : 11:15:54 PM Friday, March 5, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy)
+-------------------------------
+
+Log Entry : 11:18:01 PM Friday, March 5, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy)
+-------------------------------
+
+Log Entry : 11:19:03 PM Friday, March 5, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy)
+-------------------------------
+
+Log Entry : 11:20:11 PM Friday, March 5, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy)
+-------------------------------
+
+Log Entry : 11:21:11 PM Friday, March 5, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy)
+-------------------------------

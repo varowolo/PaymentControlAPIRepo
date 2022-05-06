@@ -1,0 +1,60 @@
+
+Log Entry : 11:13:03 AM Wednesday, April 14, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 11:14:10 AM Wednesday, April 14, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 11:17:51 AM Wednesday, April 14, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 11:24:44 AM Wednesday, April 14, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 11:26:05 AM Wednesday, April 14, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 11:28:57 AM Wednesday, April 14, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 11:32:16 AM Wednesday, April 14, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 12:38:09 PM Wednesday, April 14, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 12:53:06 PM Wednesday, April 14, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
+
+Log Entry : 12:54:36 PM Wednesday, April 14, 2021
+  :
+  :Failure sending mail.    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at PaymentControlAPI.BLL.SendEmail.Send(String subject, String message, String ReceiverEmail, String attachementfilepath, String MailsToCopy) in C:\Users\Arowolo\Documents\PaymentControlAPI_New\PaymentControlAPI\BLL\SendEmail.cs:line 94
+-------------------------------
